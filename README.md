@@ -1,6 +1,6 @@
 # Lucas-Fernando
 
-## Olá pessoal :smiley:
+## Olá pessoal! :smiley:
 
  <br/> :mortar_board: &nbsp; **Estou cursando atualmente Engenharia da Computação.**
  <br/> :computer: &nbsp; **Linguagens que mais domino: C++ (desktop) e Java para Android (Mobile).**
